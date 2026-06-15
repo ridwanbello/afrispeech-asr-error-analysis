@@ -1,0 +1,11 @@
+column,dtype,missing_count,missing_percent,unique_values
+speaker_id,str,0,0.0,750
+path,str,0,0.0,6318
+audio_id,str,0,0.0,6318
+transcript,str,0,0.0,6283
+age_group,str,0,0.0,6
+gender,str,0,0.0,3
+accent,str,0,0.0,108
+domain,str,0,0.0,2
+country,str,0,0.0,11
+duration,float32,0,0.0,5127
