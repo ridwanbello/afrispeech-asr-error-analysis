@@ -1,0 +1,3 @@
+model,domain,n_samples,mean_wer,mean_cer,mean_wrr
+whisper-small,clinical,3605,0.5892,0.3471,0.4108
+whisper-small,general,2712,0.5915,0.3635,0.4085

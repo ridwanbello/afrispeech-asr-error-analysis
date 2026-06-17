@@ -1,0 +1,3 @@
+model,model_short,domain,n_samples,WER,CER,WRR,paper_WER,duration_filter
+openai/whisper-small,whisper-small,clinical,3446,0.484,0.245,0.516,0.455,2-30s
+openai/whisper-small,whisper-small,general,2619,0.377,0.223,0.623,0.33,2-30s
